@@ -48,3 +48,5 @@ Our goal is to write a recipe for a chocolate cake!
 *   Create a new branch on your fork
 *   Submit a pull request
 *   Comment on someone else's pull request
+
+Done
